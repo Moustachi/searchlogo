@@ -1,0 +1,39 @@
+.header{
+	text-align: center;
+}
+
+.searchBox{
+	background-color: #eff1f0;
+	height: 6em;
+	width: 30em;
+	margin: 0 auto;
+	padding-top: 4em;
+}
+
+.menuContainer{
+	background-color: yellow;
+	margin: 0 auto;
+	text-align: center;
+	width: 300px;
+}
+
+table {
+	border: 1px solid black;
+	margin: 0 auto;
+
+}
+
+tr {
+	border: 1px solid black;
+	
+}
+
+td {
+	border: 1px solid black;
+	margin: 2em;
+	padding: 1em;
+}
+
+.colorImage {
+	display: none;
+}
