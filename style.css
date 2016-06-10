@@ -2,7 +2,7 @@
 	text-align: center;
 }
 
-.searchBox{
+.search-box{
 	background-color: #eff1f0;
 	height: 6em;
 	width: 30em;
@@ -10,7 +10,7 @@
 	padding-top: 4em;
 }
 
-.menuContainer{
+.menu-container{
 	background-color: yellow;
 	margin: 0 auto;
 	text-align: center;
@@ -34,6 +34,6 @@ td {
 	padding: 1em;
 }
 
-.colorImage {
+.color-image {
 	display: none;
 }
