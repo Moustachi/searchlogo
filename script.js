@@ -5,6 +5,7 @@ $(function() {
     });
 
     function scholarshipHighschool() {
+    	
     	if ($(".loan-menu").val() == "scholarship" && 
     		$(".school-menu").val() == "highschool"){
     		$("#scholarship-highschoolgrey").css("display", "none")
