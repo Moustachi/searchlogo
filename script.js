@@ -11,6 +11,7 @@ $(function() {
 		} else if 
 			($(".loan-menu").val() == "loan" &&
 			$(".school-menu").val() == "k1"){
+			reset()
 			$(".loan-k1").removeClass("gray");
 		} else if 
 			($(".loan-menu").val() == "allProgram" &&
