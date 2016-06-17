@@ -35,5 +35,9 @@ td {
 }
 
 .color-image {
-	display: none;
+}
+
+.gray {
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
 }
